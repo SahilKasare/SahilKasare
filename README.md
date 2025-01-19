@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 Hi, I’m Sahil Kasare<br>
-🌱 I’m currently learning Full Stack Web Development<br>
+🌱 I’m Full Stack Web Developer and also passionate about creating wonderful projects integrating ML.<br>
 👀 I’m looking to collaborate on Team Work on Project Management.<br>
 📫 You can reach me by LINKEDIN Profile. https://www.linkedin.com/in/sahil-kasare-191iiits/<br>
 
